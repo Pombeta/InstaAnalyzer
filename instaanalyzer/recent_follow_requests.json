@@ -1,0 +1,43 @@
+{
+  "relationships_permanent_follow_requests": [
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/mariigonsi",
+          "value": "mariigonsi",
+          "timestamp": 1775859962
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/vitoria_neves98",
+          "value": "vitoria_neves98",
+          "timestamp": 1775834333
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/thalles__lacerda",
+          "value": "thalles__lacerda",
+          "timestamp": 1775503510
+        }
+      ]
+    }
+  ]
+}
